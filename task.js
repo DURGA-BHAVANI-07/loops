@@ -44,7 +44,7 @@ do{
 //  3.write a program to print odd numbers using for loop and write same program suing while and do-while loop?
 
 
-let a = 1;
+var a = 1;
 
 while (a <= 20) {
     console.log(a);
